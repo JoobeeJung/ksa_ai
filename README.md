@@ -1,2 +1,2 @@
 # ksa_ai
-AI Study
+AI Study in C
